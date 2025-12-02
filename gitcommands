@@ -6,7 +6,7 @@ git push origin main(new)/ master(old)
 
 	// you can check it in remote repository
 
---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 //In 1st step we already initialized the repository so it's not necessary for again to initialize instead we can directly add files into our local repository
 
 1. git status (verify the changes)
