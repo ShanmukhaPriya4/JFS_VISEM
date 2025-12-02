@@ -9,9 +9,9 @@ git push origin main(new)/ master(old)
 --------------------------------------------------------------------------------------------------------------------
 //In 1st step we already initialized the repository so it's not necessary for again to initialize instead we can directly add files into our local repository
 
-git status (verify the changes)
-git add .
-git commit -m "message"
+1. git status (verify the changes)
+2. git add .
+3. git commit -m "message"
 Already we have connected in the 1st step so no need of git remote add origin <remote-url>
 4.  git push origin main(new)/ master(old)
 
