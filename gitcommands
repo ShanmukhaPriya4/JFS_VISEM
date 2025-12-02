@@ -15,3 +15,19 @@ git push origin main(new)/ master(old)
 Already we have connected in the 1st step so no need of git remote add origin <remote-url>
 4.  git push origin main(new)/ master(old)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ dir /a:h  -  To display hidden files
+ mkdir {name} -  To make a directory
+ attrib +h {name}  -  To hide 
+ attrib -h {name}  -  To unhide
+ rmdir /s /q {name}  - To remove folder with content
+rmdir {name}  -  To remove one empty directory
+dir  -  Display the content of directory
+rename {old} {new}  -  Rename the folder
+ cls  -  clear the screen
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
