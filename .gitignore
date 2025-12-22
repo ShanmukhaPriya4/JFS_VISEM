@@ -1,0 +1,5 @@
+# Ignore Maven build files
+target/
+
+# Keep this file
+!.gitignore
