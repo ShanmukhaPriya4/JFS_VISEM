@@ -1,0 +1,49 @@
+1.  git init
+2.  git add .
+3.  git commit -m "message"
+4.  git remote add origin <remote-url>
+5.  git push origin main(new)/ master(old) 
+
+	// you can check it in remote repository
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+//In 1st step we already initialized the repository so it's not necessary for again to initialize instead we can directly add files into our local repository
+
+1. git status (verify the changes)
+2. git add .
+3. git commit -m "message"
+Already we have connected in the 1st step so no need of git remote add origin <remote-url>
+4.  git push origin main(new)/ master(old)
+
+If u want to retrieve remote repo to local pc : git clone <url>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 1.  dir /a:h  -  To display hidden files
+ 2.  mkdir {name} -  To make a directory
+ 3.  attrib +h {name}  -  To hide 
+ 4.  attrib -h {name}  -  To unhide
+ 5.  rmdir /s /q {name}  - To remove folder with content
+ 6.  rmdir {name}  -  To remove one empty directory
+ 7.  dir  -  Display the content of directory
+ 8.  rename {old} {new}  -  Rename the folder
+ 9.  type {file_name}  -  To display the content of the file
+ 10. notepad filename.txt  -  To create a new text file
+ 11. type {file_name}>{other filename}  -  To forward the content of one file to another file
+ 12. del {file_name}  -  To delete the file name
+ 13. del *.txt  -  To delete all text files
+ 14. cls  -  clear the screen
+
+15  .  The list of wild characters:
+		?  -  Single character
+		*  -  0 / more characters
+
+16  .  dir ?.txt  -   To display all single character named files with .txt extension 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Instead of downloading we can directly preview their op
+
+http://htmlpreview.github.io/?<url>
+
+
